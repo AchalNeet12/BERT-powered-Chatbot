@@ -5,17 +5,17 @@ This project is a BERT-powered chatbot built with Streamlit, designed to provide
 
 ## 🚀 Features:
 1. **Category-based Responses**:
-  Users can select a category (General, Artificial Intelligence, Programming, or Cloud Computing) and ask questions related to that category. The chatbot will provide relevant responses based on predefined 
-  question-answer pairs.
+  -Users can select a category (General, Artificial Intelligence, Programming, or Cloud Computing) and ask questions related to that category. The chatbot will provide relevant responses based on predefined 
+   question-answer pairs.
 2. **BERT-powered NLP**:
-  The chatbot uses BERT, a state-of-the-art model for natural language understanding, to generate embeddings for user input and match them with predefined questions. This ensures accurate and context-aware 
-  responses.
+  -The chatbot uses BERT, a state-of-the-art model for natural language understanding, to generate embeddings for user input and match them with predefined questions. This ensures accurate and context-aware 
+   responses.
 3. **Cosine Similarity Matching**:
-  The chatbot uses cosine similarity to compare the user’s query with predefined questions in the selected category, providing the most relevant response based on semantic similarity.
+  -The chatbot uses cosine similarity to compare the user’s query with predefined questions in the selected category, providing the most relevant response based on semantic similarity.
 4. **Predefined Question-Answer Database**:
-  The chatbot is equipped with a set of predefined questions and responses for different categories, allowing users to instantly interact and receive relevant information.
+  -The chatbot is equipped with a set of predefined questions and responses for different categories, allowing users to instantly interact and receive relevant information.
 5. **Streamlit-based Interface**:
-  The application is built using Streamlit, a popular Python library for creating interactive web applications. This makes it easy to deploy and share the chatbot interface.
+  -The application is built using Streamlit, a popular Python library for creating interactive web applications. This makes it easy to deploy and share the chatbot interface.
 
 ##  🤖 Technologies Used:
 - Python: The primary programming language for building the chatbot.
@@ -29,11 +29,11 @@ This project is a BERT-powered chatbot built with Streamlit, designed to provide
 
 ##  📌 Use Cases:
 1. **Customer Support**:
-  Can be adapted for businesses to assist with frequently asked questions and guide users through basic troubleshooting or product information.
+ - Can be adapted for businesses to assist with frequently asked questions and guide users through basic troubleshooting or product information.
 2. **Personal Assistant**:
-  Can be customized to serve as a personal knowledge assistant for general or domain-specific inquiries.
-3.**Education and Learning Support**:
-  Provides answers to questions related to specific domains like Artificial Intelligence, Programming, and Cloud Computing, making it a useful learning companion for students and professionals.
+ - Can be customized to serve as a personal knowledge assistant for general or domain-specific inquiries.
+3. **Education and Learning Support**:
+ - Provides answers to questions related to specific domains like Artificial Intelligence, Programming, and Cloud Computing, making it a useful learning companion for students and professionals.
 
 
 
